@@ -1,0 +1,33 @@
+name: Refresh living profile
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull contribution activity
+        run: python tools/pull_contributions.py
+
+      - name: Render contribution graph
+        run: python tools/render_graph.py
+
+      - name: Commit refreshed assets
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: refresh living contribution graph [skip ci]"
+          file_pattern: "assets/contributions.json assets/graph.svg"
