@@ -10,10 +10,10 @@ engineering_student
 root@yuvaraj:~$ status
 compiling ideas into production-ready projects
 root@yuvaraj:~$ uptime
-always learning · always building · always shipping_
+always learning · always building · always shipping
 ```
 
-`PORTFOLIO` &nbsp;&nbsp; `LINKEDIN` &nbsp;&nbsp; [**GITHUB**](https://github.com/Yuvaraj187) &nbsp;&nbsp; [**MAIL**](mailto:yuvarajvj18@gmail.com)
+`PORTFOLIO` &nbsp;&nbsp; [**LINKEDIN**](linkedin.com/in/yuva-raj-v) &nbsp;&nbsp; [**GITHUB**](https://github.com/Yuvaraj187) &nbsp;&nbsp; [**MAIL**](mailto:yuvarajvj18@gmail.com)
 
 </div>
 
