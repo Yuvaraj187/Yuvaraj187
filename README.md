@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="70%" alt="Yuvaraj Banner"/>
+  <img src="./assets/banner.gif" width="70%" alt="Yuvaraj Banner"/>
 </p>
 <div align="center">
 
