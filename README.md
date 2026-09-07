@@ -127,9 +127,9 @@ react · node.js · express · postgresql · pwa
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-HACKWITHINFY%202026-0d1117?style=for-the-badge&logo=infosys&logoColor=6EE7B7"/>
+<!-- <img src="https://img.shields.io/badge/-HACKWITHINFY%202026-0d1117?style=for-the-badge&logo=infosys&logoColor=6EE7B7"/>
 <img src="https://img.shields.io/badge/-IEEE%20STUDENT%20CHAPTER-0d1117?style=for-the-badge&logo=ieee&logoColor=6EE7B7"/>
-<img src="https://img.shields.io/badge/-FULL%20STACK%20DEVELOPMENT-0d1117?style=for-the-badge&logo=github&logoColor=6EE7B7"/>
+<img src="https://img.shields.io/badge/-FULL%20STACK%20DEVELOPMENT-0d1117?style=for-the-badge&logo=github&logoColor=6EE7B7"/> -->
 
 </div>
 
