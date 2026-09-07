@@ -1,8 +1,5 @@
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=550&lines=root%40yadhu%3A~%24+whoami;full_stack_developer;root%40yuva%3A~%24+status;compiling+ideas+into+production+code;root%40yuva%3A~%24+uptime;always+learning%2C+always+shipping" />
-
-<br><br>
 
 <a href="#"><img src="https://img.shields.io/badge/-PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=6EE7B7" /></a>
 <a href="https://linkedin.com/in/yadhu-krishna-u-s-26374728a"><img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=6EE7B7" /></a>
