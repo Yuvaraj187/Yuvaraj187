@@ -5,7 +5,7 @@
 
 <img src="./assets/yuvaraj_name_grid.svg"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=550&lines=root%40yadhu%3A~%24+whoami;software_engineering_student;root%40yadhu%3A~%24+status;compiling+ideas+into+production+code;root%40yadhu%3A~%24+uptime;always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=6EE7B7&background=00000000&center=true&vCenter=true&width=550&lines=root%40yadhu%3A~%24+whoami;software_engineering_student;root%40yuva%3A~%24+status;compiling+ideas+into+production+code;root%40yuva%3A~%24+uptime;always+learning%2C+always+shipping" />
 
 <br><br>
 
@@ -16,8 +16,8 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yadhukrishna07&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Yadhukrishna07?label=FOLLOWERS&style=for-the-badge&color=0d1117&logo=github&logoColor=6EE7B7"/>
+<img src="https://komarev.com/ghpvc/?username=Yuvaraj187&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Yuvaraj187?label=FOLLOWERS&style=for-the-badge&color=0d1117&logo=github&logoColor=6EE7B7"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-0d1117?style=for-the-badge&logo=handshake&logoColor=6EE7B7"/>
 
 </div>
@@ -27,7 +27,7 @@
 [ 01 ]  about
 
 <table>
-<tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="30"/></td><td width="110"><code>education</code></td><td>b.tech engineering · rajalakshmi engineering college · software engineering student</td></tr>
+<tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlescholar&logoColor=6EE7B7" width="30"/></td><td width="110"><code>education</code></td><td>B.tech Computer Science & Business Systems · Rajalakshmi Engineering College ·</td></tr>
 <tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=googlemaps&logoColor=6EE7B7" width="30"/></td><td><code>location</code></td><td>chennai, india</td></tr>
 <tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=react&logoColor=6EE7B7" width="30"/></td><td><code>focus</code></td><td>react · node · java · ai-integrated web apps</td></tr>
 <tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=gnubash&logoColor=6EE7B7" width="30"/></td><td><code>role</code></td><td>engineering student · aspiring software developer</td></tr>
