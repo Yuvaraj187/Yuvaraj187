@@ -117,7 +117,7 @@ react · node.js · express · postgresql · pwa
 [ 06 ]  experience
 
 <table>
-<tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=workplace&logoColor=6EE7B7" width="30"/></td><td width="100"><code>2025</code></td><td><b>full stack development intern</b> · internship experience<br/><sub>built and debugged frontend and backend modules in a production workflow</sub></td></tr>
+<!-- <tr><td width="42"><img src="https://img.shields.io/badge/-000?style=flat-square&logo=workplace&logoColor=6EE7B7" width="30"/></td><td width="100"><code>2025</code></td><td><b>full stack development intern</b> · internship experience<br/><sub>built and debugged frontend and backend modules in a production workflow</sub></td></tr> -->
 <tr><td><img src="https://img.shields.io/badge/-000?style=flat-square&logo=workplace&logoColor=6EE7B7" width="30"/></td><td><code>2024</code></td><td><b>web development intern</b> · internship experience<br/><sub>designed responsive pages and refined ui components across devices</sub></td></tr>
 </table>
 
